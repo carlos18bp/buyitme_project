@@ -1,0 +1,14 @@
+db.sqlite3
+__pycache__/
+**/__pycache__/
+*.pyc
+media/
+!media/temp/
+
+# Virtual environments
+buyitme_venv/
+backend/buyitme_venv/
+venv/
+env/
+.venv/
+.env/
